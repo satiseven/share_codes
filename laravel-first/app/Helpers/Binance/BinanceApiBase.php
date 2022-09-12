@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Http;
 class BinanceApiBase
 {
 
-    protected $api_key;             // API key
+    protected $api_key;             // API  
     protected $api_secret;          // API secret
     protected $api_url;             // API base URL
     protected $recvWindow;          // API receiving window
